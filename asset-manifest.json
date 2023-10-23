@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/League_Guide/static/css/main.2bb99d84.css",
+    "main.js": "/League_Guide/static/js/main.25e61cc6.js",
+    "static/js/787.4b7e9b6c.chunk.js": "/League_Guide/static/js/787.4b7e9b6c.chunk.js",
+    "index.html": "/League_Guide/index.html",
+    "main.2bb99d84.css.map": "/League_Guide/static/css/main.2bb99d84.css.map",
+    "main.25e61cc6.js.map": "/League_Guide/static/js/main.25e61cc6.js.map",
+    "787.4b7e9b6c.chunk.js.map": "/League_Guide/static/js/787.4b7e9b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb99d84.css",
+    "static/js/main.25e61cc6.js"
+  ]
+}
