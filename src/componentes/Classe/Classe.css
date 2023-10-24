@@ -1,0 +1,19 @@
+.classe{
+    text-align: center;
+    padding: 32px;
+    margin: 12px;
+}
+
+.classe h3{
+    font-size: 2rem;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.container-personagens{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    justify-content: center;
+}

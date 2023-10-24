@@ -1,0 +1,68 @@
+.personagem {
+    width: 240px;
+}
+
+.personagem .cabecalho {
+    background-color: #F0F0F0;
+    border-radius: 10px 10px 0px 0px;
+    height: 100px;
+}
+
+.personagem img {
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.personagem .rodape {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.personagem .rodape h4 {
+    color: #6278F7;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.personagem .rodape h5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+
+    height: 0px;
+    padding: 0 16px;
+}
+
+.personagem select {
+    background: #eee;
+  color: #333;
+}
+
+.personagem legend {
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.personagem select::after{
+        content: "";
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 0;
+        height: 0;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 5px solid #333;
+      }
